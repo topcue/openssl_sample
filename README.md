@@ -1,8 +1,9 @@
 # openssl sample code and 
 
 ## install openssl
-//  Download openssl using a web browser
+
 ```
+//  Download openssl using a web browser
 tar -xzvf openssl-x.x.x.tar.gz
 ```
 
